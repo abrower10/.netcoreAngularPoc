@@ -260,15 +260,8 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
-/source/bvp/UnifiedPlatform/_Documentation/RPS64/InstallLog.txt
-/source/bvp/UnifiedPlatform/Database.BusinessValue/Publishing/BVPS.DEV-US82172.publish.xml
-source/bvp/UnifiedPlatform/Web.BusinessValue.WebClient/app/bvp/**/*.min.js
 
-source/bvp/UnifiedPlatform/Web\.BusinessValue\.WebClient/Content/app-styles\.css
-
-source/bvp/UnifiedPlatform/Web\.BusinessValue\.WebClient/Content/app-styles\.min\.css
-source/bvp/UnifiedPlatform/Web.ItRoadmapLight.WebClient/Content/app-styles\.css
-source/bvp/UnifiedPlatform/Web.ItRoadmapLight.WebClient/Content/app-styles\.min\.css
-source/**/.vscode/*
-source/**/*.map
-source/**/value-calculatorV2/**/*.js
+*.db
+.vscode
+bin
+obj
